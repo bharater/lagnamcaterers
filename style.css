@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+}
+.nav{
+    margin: 5px;
+    display: flex;
+    list-style-type: none;
+    width: 200px;
+    justify-content: space-between;
+    background-image: url();
+}
+.li{
+    border: 2px solid;
+    border-radius: 8px;
+    padding: 3px;
+    -webkit-backdrop-filter: blur(15px);
+    backdrop-filter: blur(15px);
+}
+.line
+{
+    margin-top: 30px;
+}
+marquee
+{
+    position: relative;
+    top: 70dvh;
+    color: aqua;
+    text-shadow: 20px 20px 20pxn black;
+    
+}
